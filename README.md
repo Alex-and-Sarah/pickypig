@@ -3,11 +3,11 @@
 ## Features
 ### Round 1
 - Location based search
-- Filter by Restaurants or Bars
-- Food type based search
 - Views:
   - Search Results: each listing shows Name, Avg Piggy Score, Avg Piggy Price, How many piggys reviewed, Picture, Distance, Reservations/Waitlists available 
   - Listing Page: show all ratings from each site, all pricing, links to menus, phone number, address, all info available, links out to other sites for reservations/waitlists
+- Filter by Restaurants or Bars
+- Food type based search
 
 ### Round 2
 - More filters (by rating, price($$), distance, etc)
