@@ -1,7 +1,7 @@
 # Picky Pig
 
 ## Features
-### Round 1
+### Phase 1
 - Location based search
 - Views:
   - Search Results: each listing shows Name, Avg Piggy Score, Avg Piggy Price, How many piggys reviewed, Picture, Distance, Reservations/Waitlists available 
@@ -9,12 +9,12 @@
 - Filter by Restaurants or Bars
 - Food type based search
 
-### Round 2
+### Phase 2
 - More filters (by rating, price($$), distance, etc)
 - Filter by has reservations or low wait times 
 - Include symbol in listing to show what reservations are available, then link it in listing
 
-### Round 3
+### Phase 3
 - Map functionality
 
 ### Unassigned features
